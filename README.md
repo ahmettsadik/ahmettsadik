@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 📖 Student at Istanbul Technical University as a Mathematical Engineer.
 
 <!--
 **ahmettsadik/ahmettsadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
